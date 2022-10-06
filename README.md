@@ -24,9 +24,9 @@ The project contain 3 key
 
 ## Installation <a name="installation"></a>
 
-'''
+```
 git clone https://github.com/waleed-6/Disaster-Response-Pipeline
-'''
+```
 
 ## Screenshots<a name="Screenshots"></a>
 
