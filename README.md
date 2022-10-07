@@ -31,6 +31,10 @@ git clone https://github.com/waleed-6/Disaster-Response-Pipeline
 ## Screenshots<a name="Screenshots"></a>
 ![alt text](https://github.com/waleed-6/Disaster-Response-Pipeline/blob/main/Screenshots/Screenshot%201.png)
 
+-------------------------------
+![alt text](https://github.com/waleed-6/Disaster-Response-Pipeline/blob/main/Screenshots/Screenshot%202.png)
+
+
 
 ## Project Motivation<a name="motivation"></a>
 in this project i want to discover what is the effect the ability to go to college using Go To College Dataset :
