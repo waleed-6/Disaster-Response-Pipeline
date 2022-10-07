@@ -29,7 +29,7 @@ git clone https://github.com/waleed-6/Disaster-Response-Pipeline
 ```
 
 ## Screenshots<a name="Screenshots"></a>
-![Alt text](Disaster-Response-Pipeline/Screenshots/Screenshot 1.png?raw=true "Title")
+![alt text](https://github.com/waleed-6/Disaster-Response-Pipeline/blob/main/Screenshots/Screenshot%201.png)
 
 
 ## Project Motivation<a name="motivation"></a>
