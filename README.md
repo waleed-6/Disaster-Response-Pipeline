@@ -1,6 +1,6 @@
-# Disaster-Response
 
-# data-science-project-
+# Disaster-Response
+![alt text](https://github.com/waleed-6/Disaster-Response-Pipeline/blob/main/Screenshots/Screenshot3.png)
 
 ### Table of Contents
 
@@ -36,7 +36,10 @@ git clone https://github.com/waleed-6/Disaster-Response-Pipeline
 
 
 ## Results<a name="results"></a>
+the massage 'i am thirsty' is enterd 
+![alt text](https://github.com/waleed-6/Disaster-Response-Pipeline/blob/main/Screenshots/Screenshot4.png)
 
-The main findings of the code can be found at the post available here https://medium.com/@wleedas38/is-he-she-going-to-college-20441c1ad585
+and the result category was
 
+![alt text](https://github.com/waleed-6/Disaster-Response-Pipeline/blob/main/Screenshots/Screenshot%205.png)
 
