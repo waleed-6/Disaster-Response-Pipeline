@@ -16,9 +16,9 @@
 Analyzing message of different disaster have greet impact on ability to help other in need 
 That can really help  in saving people live , this project is part of data science nanodegree 
 Using NLP we were able to analyze message that predict the type of disaster 
-The project contain 3 key /n
-1-	Building ETL pipeline /n
-2-	Building machine learning pipeline /n
+The project contain 3 key 
+1-	Building ETL pipeline 
+2-	Building machine learning pipeline \n
 3-	Run app that predict type of disaster in real time /n   
 
 
