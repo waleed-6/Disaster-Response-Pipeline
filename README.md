@@ -4,9 +4,9 @@
 
 ### Table of Contents
 
-1. [Description] (#Description)
+1. [Description](#Description)
 2. [Installation](#installation)
-3. [Screenshots] (#Screenshots)
+3. [Screenshots](#Screenshots)
 4. [Results](#results)
 
 
