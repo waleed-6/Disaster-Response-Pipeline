@@ -69,8 +69,8 @@ def index():
          {
             'data': [
                 Bar(
-                    x=top_5_catagory_count,
-                    y=top_5_catagory_name
+                    x=top_5_catagory_name,
+                    y=top_5_catagory_count
                 )
             ],
 
