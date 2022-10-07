@@ -4,11 +4,10 @@
 
 ### Table of Contents
 
-1. [Description]
+1. [Description] (#Description)
 2. [Installation](#installation)
-3. [Screenshots]
-4. [Author]
-5. [Results](#results)
+3. [Screenshots] (#Screenshots)
+4. [Results](#results)
 
 
 ## Description <a name="Description"></a>
@@ -35,13 +34,6 @@ git clone https://github.com/waleed-6/Disaster-Response-Pipeline
 ![alt text](https://github.com/waleed-6/Disaster-Response-Pipeline/blob/main/Screenshots/Screenshot%202.png)
 
 
-
-## Project Motivation<a name="motivation"></a>
-in this project i want to discover what is the effect the ability to go to college using Go To College Dataset :
-1-how likely will student go to college if his parents went to college
-2-what is type of school accreditation have higher rate of entering college
-3-how does average grades effect ablity to go to college ?
-4-can we predict where someone will go to college or not by data provided
 
 ## Results<a name="results"></a>
 
