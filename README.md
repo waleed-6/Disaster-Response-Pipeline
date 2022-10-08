@@ -52,7 +52,7 @@ git clone https://github.com/waleed-6/Disaster-Response-Pipeline
 ```
 ### To create a processed sqlite db
 ```
-python .data/process_data.py .data/disaster_messages.csv .data/disaster_categories.csv .data/InsertDatabaseName.db
+python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
 ```
 ### To train and save a pkl model
 ```
