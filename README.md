@@ -5,9 +5,10 @@
 ### Table of Contents
 
 1. [Description](#Description)
-2. [Installation](#installation)
-3. [Screenshots](#Screenshots)
-4. [Results](#results)
+2. [files in the repository](#files)
+3. [Installation](#installation)
+4. [Screenshots](#Screenshots)
+5. [Results](#results)
 
 
 ## Description <a name="Description"></a>
@@ -19,6 +20,29 @@ The project contain 3 key :
 1-	Building ETL pipeline 
 2-	Building machine learning pipeline 
 3-	Run app that predict type of disaster in real time 
+
+## files in the repository <a name="files"></a>
+
+app
+| - template
+| |- master.html # main page of web app
+| |- go.html # classification result page of web app
+|- run.py # Flask file that runs app
+data
+|- disaster_categories.csv # data to process
+|- disaster_messages.csv # data to process
+|- process_data.py
+|- InsertDatabaseName.db # database to save clean data to
+models
+|- train_classifier.py
+|- classifier.pkl # saved model
+Screenshots
+|- Screenshots1
+|- Screenshots2
+|- Screenshots3
+|- Screenshots4
+|- Screenshots5
+README.md
 
 
 ## Installation <a name="installation"></a>
