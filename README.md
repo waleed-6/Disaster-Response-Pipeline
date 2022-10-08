@@ -22,7 +22,7 @@ The project contain 3 key :
 3-	Run app that predict type of disaster in real time 
 
 ## files in the repository <a name="files"></a>
-
+~~~~~~~
 app
 | - template
 | |- master.html # main page of web app
@@ -43,7 +43,7 @@ Screenshots
 |- Screenshots4
 |- Screenshots5
 README.md
-
+~~~~~~~
 
 ## Installation <a name="installation"></a>
 
