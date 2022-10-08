@@ -26,6 +26,18 @@ The project contain 3 key :
 ```
 git clone https://github.com/waleed-6/Disaster-Response-Pipeline
 ```
+### To create a processed sqlite db
+```
+python .data/process_data.py .data/disaster_messages.csv .data/disaster_categories.csv .data/InsertDatabaseName.db
+```
+### To train and save a pkl model
+```
+python ./models/train_classifier.py './data/InsertDatabaseName.db' './models/model.pkl'.
+```
+### To deploy the application locally
+```
+python run.py
+```
 
 ## Screenshots<a name="Screenshots"></a>
 ![alt text](https://github.com/waleed-6/Disaster-Response-Pipeline/blob/main/Screenshots/Screenshot%201.png)
